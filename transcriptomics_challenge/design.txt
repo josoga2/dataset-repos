@@ -1,0 +1,5 @@
+id	dex
+panc_rep1	pancreas
+panc_rep2	pancreas
+neur_rep1	neuron
+neur_rep2	neuron
