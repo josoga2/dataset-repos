@@ -1,4 +1,4 @@
-exon_id,Methylation_Score,Expression_Count
+exon_id,Expression_Count,Methylation_Score
 " exon_id ""ENSE00003582793""",20,0.974139275
 " exon_id ""ENSE00002312635""",11,0.718389882
 " exon_id ""ENSE00002234632""",15,0.064415696
